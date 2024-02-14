@@ -71,6 +71,4 @@ Logical Equivalence class comparator. See if two string representation of logic 
   1 1 1 1 | 1
   1 1 1 0 | 1
 
-Process finished with exit code 0
-
 </pre>
